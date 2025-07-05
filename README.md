@@ -51,7 +51,7 @@
 ---
 
 ### 🌸 Fun Fact:
-I’m equally obsessed with beauty, design, and learning tech! Whether it’s styling a page or styling myself—I do both with love 💄✨
+I’m equally obsessed with beauty, design, and learning tech! -I do with love 💄✨
 
 ---
 
