@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi there, I'm Pranjal Prabhakar Hande!</h1>
 
 <p align="center">
-💫 Dreamer | 💻 BSc IT Graduate | 🧠 Learner | 👑 Future Tech   
+💫 Dreamer | 💻 BSc IT Graduate | 🧠 Learner |  Future Tech   
 </p>
 
 ---
