@@ -37,7 +37,7 @@
 
 🧠 **Portfolio Website** – A responsive portfolio showcasing my bio and skills  
 🧠 **Student Feedback System** – HTML, PHP & MySQL-based system for collecting student feedback  
-🧠 **Data Analysis with Python** – Analyzing CSV datasets using pandas & matplotlib
+
 
 > 📌 More projects coming soon as I grow and build my GitHub journey 💻
 
