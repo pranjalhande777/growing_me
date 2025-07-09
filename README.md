@@ -1,4 +1,4 @@
-# growing_me
+ # growing_me
 <h1 align="center">👋 Hi there, I'm Pranjal Prabhakar Hande!</h1>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ### 📬 Let's Connect!
 
 - 📧 Email: pranjalhande2004@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/pranjal-hande-220a75321](https://www.linkedin.com/in/pranjal-hande-220a75321/?originalSubdomain=in)
+- 💼 LinkedIn: [www.linkedin.com/in/pranjal-hande777](https://www.linkedin.com/in/pranjal-hande777)
 
 ---
 
